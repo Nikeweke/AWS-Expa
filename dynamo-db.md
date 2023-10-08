@@ -1,6 +1,6 @@
 ## AWS DynamoDB
 
-* [Add `updatedAt` to value](https://github.com/Nikeweke/AWS-Expa/new/main#add-updatedat-to-value) 
+* [Add `updatedAt` to value](https://github.com/Nikeweke/AWS-Expa/blob/main/dynamo-db.md#add-updatedat-to-value)
 
 --- 
 
