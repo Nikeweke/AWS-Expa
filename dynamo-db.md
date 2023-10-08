@@ -22,4 +22,4 @@ const params: DocumentClient.QueryInput = {
   },
 };
 ```
-
+<br />
